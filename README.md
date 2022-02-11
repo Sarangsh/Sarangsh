@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 🙋🏽
+###   About me 
+- A Master's student in Business Analytics with an experience in the FMCG and retail industry as a marketing analytics consultant.
+- Currently in the United States, based out of Cincinnati, Ohio.
+- Loves to play Football (Soccer) and work on analytical projects related to the sport.
+- Loves working with numbers and curate stories though data.
 
-<!--
-**Sarangsh/Sarangsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Core Competencies
+- Tools: SQL, Python, R, Tableau, Excel, Alteryx
+- Skills: EDA, Hypothesis Testing, Data Analysis, Viualization, Relational Databases
 
-Here are some ideas to get you started:
+### 📕 Projects and Guides
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
