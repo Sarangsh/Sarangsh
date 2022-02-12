@@ -10,4 +10,4 @@
 - Skills: EDA, Hypothesis Testing, Data Analysis, Viualization, Relational Databases
 
 ### 📕 Projects and Guides
-- Analyzing the Dognition dataset to answer how the company can incentivize users to take on more tests which would eventually help categorize their dogs into different personalities [Link](https://github.com/Sarangsh/Dognition-Analysis)
+- **Tableau** Analyzing the Dognition dataset to answer how the company can incentivize users to take on more tests which would eventually help categorize their dogs into different personalities [Link](https://github.com/Sarangsh/Dognition-Analysis)
