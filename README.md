@@ -6,7 +6,7 @@
 - Loves working with numbers and curate stories though data.
 
 ### 💡 Core Competencies
-- Tools: SQL, Python, R, Tableau, Excel, Alteryx
+- Tools: SQL, Python, R, Tableau, Excel, Alteryx, PowerBI
 - Skills: EDA, Hypothesis Testing, Data Analysis, Viualization, Relational Databases
 
 ### 📕 Projects and Guides
