@@ -11,4 +11,4 @@
 
 ### 📕 Projects and Guides
 - **[Tableau]** Analyzing the Dognition dataset to answer how the company can incentivize users to take on more tests which would eventually help categorize their dogs into different personalities [Link](https://github.com/Sarangsh/Dognition-Analysis)
-- **[PowerBI and SQL]** Analyzing the sales data of a company that wants to uncover insights to help them make data driven decisions and automate the time spent in manually gathering data.
+- **[PowerBI and SQL]** Analyzing the sales data of a company that wants to uncover insights to help them make data driven decisions and automate the time spent in manually gathering data [Link](https://github.com/Sarangsh/Sales-Insights-Analysis)
